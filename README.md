@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @swatchpeter
-- 👀 I’m interested in Python, Raspberry Pi and Rugby macth
+- 👀 I’m interested in Python, Raspberry Pi and Rugby match
 - 🌱 I’m currently learning Github
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
